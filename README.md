@@ -9,7 +9,7 @@ The dataset directory provides a PDB id for proteins, code to download PDB files
 
 The Network_Weights directory provides the weights of the generator network to generate distance matrices for the protein structure.
 
-The six files represent the network architecture of ROD_WGAN 64aa, ROD_WGAN hybrid 64aa, ROD_WGAN 128aa, ROD_WGAN hybrid 128aa, ROD_WGAN 256aa, and ROD_WGAN hybrid 1256aa that generate distance matrices of proteins structure. We run in each Jypter file to provide an example. To run as an example, just set the path of the Network_Weights directory.
+The six files represent the network architecture of ROD_WGAN 64aa, ROD_WGAN hybrid 64aa, ROD_WGAN 128aa, ROD_WGAN hybrid 128aa, ROD_WGAN 256aa, and ROD_WGAN hybrid 1256aa that generate distance matrices of proteins structure. To run as an example, just set the path of the Network_Weights directory.
 
 ![Distance matix](https://user-images.githubusercontent.com/73284871/212543083-641cf627-9625-4c4e-b821-b5363f891485.png)
 
