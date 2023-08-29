@@ -16,8 +16,6 @@ In the molecular chemistry world, the functions, interactions, and bonds between
 
 ### We use the ADMM algorithm to fold the generated distance matrix.
 
-![FoldingByADMM](https://user-images.githubusercontent.com/73284871/212543092-ed2a5db4-8bc3-4068-96b5-782c320ece0d.png)
-
 
 #### We provide the generator network and its weight. In addition, the R code of folding protein structure.
 
